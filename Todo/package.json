@@ -12,7 +12,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "mocha": "^10.2.0",
-    "mongoose": "^5.12.1"
+    "mongoose": "^5.12.1",
+    "webpack": "^5.89.0"
   },
   "description": ""
 }

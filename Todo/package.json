@@ -15,5 +15,8 @@
     "mongoose": "^5.12.1",
     "webpack": "^5.89.0"
   },
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
 }
